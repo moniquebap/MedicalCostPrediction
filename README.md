@@ -15,9 +15,5 @@ The dataset comprises 2.7K rows and 7 columns, including:
 Dataset obtained from [Kaggle](https://www.kaggle.com/datasets/rahulvyasm/medical-insurance-cost-prediction)
 
 ### Problem Statement:
-1. What are the primary factors influencing medical expenses?
-2. How accurate are machine learning models in predicting medical - expenses?
-
-### Findings:
-1. According to the multiple regression model, being a smoker has the highest impact on charges (the charge is increased by 23899.63 compared to non-smokers). The number of children is shown as the second most important factor (charges increase by 451.12 per child), and BMI is third (charges increase by 327.86 per unit of BMI). Age also appears to be an important factor in determining insurance charges, with an increase of 254.30 per unit increase in age.
-2. In this case, the R2 score is approximately 0.74, which means that your model explains about 74% of the variability in the insurance charges.
+- What are the primary factors influencing medical expenses?
+- How accurate are machine learning models in predicting medical - expenses?
